@@ -5,12 +5,12 @@ int main() {
     int anoNacimiento, edad;
     const int anoActual = 2024;
 
-    cout << "En qué año naciste? ";
+    cout << "En quÃ© aÃ±o naciste? ";
     cin >> anoNacimiento;
 
     edad = anoActual - anoNacimiento;
 
-    cout << "Tienes " << edad << " años." << endl;
+    cout << "Tienes " << edad << " aÃ±os." << endl;
 
     return 0;
 }
